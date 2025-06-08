@@ -16,11 +16,11 @@ A Python-based command-line tool for managing **Namecheap DNS** records easily. 
 * [Features](#features)
 * [How It Works](#how-it-works)
 * [Requirements](#requirements)
-* [Installation](#installation)
 * [Configuration](#configuration)
 * [Quick Start](#quick-start)
 * [Advanced Usage](#advanced-usage)
 * [FAQ](#faq)
+* [References](##References)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -128,6 +128,13 @@ python namecheap_easy.py set A blog 1.2.3.4
 > **A3:** Yes, as long as they have proper API permissions.
 
 ---
+
+## References
+
+- Official Namecheap API Documentation:
+  - [`domains.dns.getHosts`](https://www.namecheap.com/support/api/methods/domains-dns/get-list/)
+  - [`domains.dns.setHosts`](https://www.namecheap.com/support/api/methods/domains-dns/set-hosts/)
+
 
 ## Contributing
 
