@@ -1,5 +1,8 @@
 # Namecheap_easy
 
+[![EN doc](https://img.shields.io/badge/document-English-blue.svg)](README.md)
+[![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.zh.CN.md)
+
 A Python-based command-line tool for managing **Namecheap DNS** records easily. It supports:
 
 * **Listing** all DNS records for a given domain (`list` mode)
@@ -158,7 +161,7 @@ MIT License. See [LICENSE](LICENSE).
 
 # 中文说明
 
-请查看本仓库中的 [README.zh.md](README.zh.md) 获取中文使用说明。
+请查看本仓库中的 [![CN doc](https://img.shields.io/badge/文档-中文版-blue.svg)](README.zh.CN.md) 获取中文使用说明。
 
 ---
 
